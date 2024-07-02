@@ -1,0 +1,3 @@
+If get an error : ERROR 1273 (HY000) at line 1: Unknown collation: 'utf8mb4_0900_ai_ci'
+then substitute utf8mb4_0900_ai_ci with utf8mb4_unicode_520_ci
+open the document on editor and make changes
